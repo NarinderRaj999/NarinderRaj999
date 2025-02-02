@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Narinder!  
 
 
-![GitHub Banner]()
+![GitHub Banner](d481f3c72e283309071f79e01b05c06d.gif)
 
 ## 🚀 Full-Stack Developer | Computer Engineering Student  
 
