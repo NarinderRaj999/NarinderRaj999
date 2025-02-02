@@ -1,5 +1,8 @@
 # 👋 Hi there, I'm Narinder!  
 
+
+![GitHub Banner]()
+
 ## 🚀 Full-Stack Developer | Computer Engineering Student  
 
 I'm a passionate **full-stack developer** from India, currently in my **final year of a Computer Engineering Diploma**. I love building web applications and working with modern technologies to solve real-world problems.  
